@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nebalus&theme=tokyonight&show_icons=true)
 
 <!--
