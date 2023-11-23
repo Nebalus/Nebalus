@@ -1,5 +1,11 @@
-<!--### Hi there 👋-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nebalus&theme=tokyonight&show_icons=true)
+
+<h3 align="center">Hey there, I'm Nebalus!</h3>
+
+<h5 align="center">
+I'm a 19 year old Computer Engineer trainee based in germany.
+  
+I love coding, simplistic art and animations. I also enjoy gaming :)
+</h5>
 
 <!--
 **Nebalus/Nebalus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
