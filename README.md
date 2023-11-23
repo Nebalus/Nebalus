@@ -4,7 +4,7 @@
 <h5 align="center">
 I'm a 19 year old Computer Engineer trainee based in germany.
   
-I love coding, simplistic art and animations. I also enjoy gaming :)
+I love coding and also enjoy gaming :)
 </h5>
 
 <!--
