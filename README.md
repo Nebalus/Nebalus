@@ -7,13 +7,12 @@ I'm a 19 year old Computer Engineer trainee based in germany.
   
 I love coding for 7+ years :)
 </h5>
-
-<h4>
-Tech Stack
-</h4>
 </div>
 
 <!--
+<h4>
+Tech Stack
+</h4>
 ![](https://github-readme-stats.vercel.app/api?username=nebalus&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)<br/>
 **Nebalus/Nebalus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
