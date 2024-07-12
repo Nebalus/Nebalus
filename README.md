@@ -7,7 +7,7 @@ I'm a 19 year old Computer Engineer trainee based in germany.
   
 I love coding for 7+ years :)
 
-If coding was a game, then I would have a playtime of 5000+ hours 
+If coding was a game, then I would have a playtime of 5700+ hours 
 </h5>
 </div>
 
