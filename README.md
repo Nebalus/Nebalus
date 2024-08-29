@@ -5,6 +5,7 @@
 <h5>
 I'm a 20 year old Computer Engineer trainee based in germany.
 
+
 My passion for programming developed when I was between the ages of 12 and 13, and it has only grown stronger since then.
 
 If coding was a game, then I would have a playtime of 7600+ hours 
