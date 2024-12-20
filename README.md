@@ -8,7 +8,7 @@ I'm a Computer Engineer trainee based in germany.
 
 My passion for programming developed when I was between the ages of 12 and 13, and it has only grown stronger since then.
 
-If coding was a game, then I would have a playtime of 7900+ hours 
+If coding was a game, then I would have a playtime of 8500+ hours 
 </h5>
 </div>
 
