@@ -3,7 +3,7 @@
 <h3>Hey there, I'm Nebalus!</h3>
 
 <h5>
-I'm a Computer Engineer trainee based in germany.
+I'm a Computer Engineer trainee.
 
 
 My passion for programming developed when I was between the ages of 12 and 13, and it has only grown stronger since then.
