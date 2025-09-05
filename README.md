@@ -1,4 +1,21 @@
+## Hey there, I'm Nebalus!
+**A Junior Developer from germany**
 
+- Discord: *@nebalus (DM's currently open)*
+- Email: *contact@nebalus.dev*
+
+### Operating Systems
+![Operating Systems](https://skillicons.dev/icons?i=ubuntu,arch,windows)
+
+### Tools
+![Tools](https://skillicons.dev/icons?i=git,github,githubactions,md,nginx,raspberrypi,redis,cloudflare,docker,mysql,npm,nodejs,nginx,phpstorm,idea,postman,prometheus,bash,grafana)
+
+### Libraries
+![Libraries](https://skillicons.dev/icons?i=react,tailwind,vite)
+
+### Programming Languages
+![Programming Languages](https://skillicons.dev/icons?i=js,ts,css,html,java,kotlin,php,nextjs)
+<!--
 <div align="center">
 <h3>Hey there, I'm Nebalus!</h3>
 
