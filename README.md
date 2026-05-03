@@ -2,6 +2,7 @@
 **A Junior Developer from germany**
 
 - Discord: *@nebalus (DM's currently open)*
+- Fluxer: *@nebalus (DM's currently open)*
 - Email: *contact@nebalus.dev*
 
 ### Operating Systems
