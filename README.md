@@ -6,7 +6,7 @@
 - Email: *contact@nebalus.dev*
 
 ### Operating Systems
-![Operating Systems](https://skillicons.dev/icons?i=ubuntu,arch,windows)
+![Operating Systems](https://skillicons.dev/icons?i=arch,windows)
 
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=git,github,githubactions,md,nginx,raspberrypi,redis,cloudflare,docker,mysql,npm,nodejs,nginx,phpstorm,idea,postman,prometheus,bash,grafana)
