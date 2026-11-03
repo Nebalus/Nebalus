@@ -1,5 +1,5 @@
 ## Hey there, I'm Nebalus!
-**A Junior Developer from germany**
+**A Junior Full Stack Developer from germany**
 
 - Discord: *@nebalus (DM's currently open)*
 - Fluxer: *@nebalus (DM's currently open)*
